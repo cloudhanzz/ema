@@ -1,0 +1,2 @@
+# ema
+English Morphological Analyzer
