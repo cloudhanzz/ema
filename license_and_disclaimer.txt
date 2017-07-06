@@ -1,0 +1,13 @@
+                    English Morphological Analyzer (ema)
+                       Version 1.0.0.0, 29 February 2016
+
+Copyright (C) 2016 Jiayun Han
+
+Disclaimer of Warranty
+
+  THERE IS NO WARRANTY FOR THE PROGRAM. THE COPYRIGHT HOLDER PROVIDES
+THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+
+
+ 
